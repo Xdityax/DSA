@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class GreatestOfTwo {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);S
 
         System.out.print("Enter first integer: ");
         int a = sc.nextInt();

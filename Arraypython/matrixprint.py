@@ -1,3 +1,4 @@
+# Matrix Print
 '''n=int(input("Enter the size of the matrix: "))
 m=int(input("Enter the number of columns: "))
 for i in range(n):
@@ -6,6 +7,7 @@ for i in range(n):
     print()'''
 
 
+# Matrix Print
 '''
 n=int(input("Enter the size of the matrix: "))
 for i in range(n):
@@ -17,7 +19,9 @@ for i in range(n):
     print() 
 
     
-''''''
+'''
+# Matrix Print
+'''
 n=int(input("Enter the size of the matrix: "))
 for i in range(n):
     for j in range(n):
